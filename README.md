@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esma Zeynep Sayılı
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Python, Flutter
 - 📫 How to reach me: sayiliesmazeynep@gmail.com
 
 <!---
